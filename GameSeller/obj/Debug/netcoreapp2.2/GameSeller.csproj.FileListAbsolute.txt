@@ -1,0 +1,10 @@
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\bin\Debug\netcoreapp2.2\GameSeller.deps.json
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\bin\Debug\netcoreapp2.2\GameSeller.runtimeconfig.json
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\bin\Debug\netcoreapp2.2\GameSeller.runtimeconfig.dev.json
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\bin\Debug\netcoreapp2.2\GameSeller.dll
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\bin\Debug\netcoreapp2.2\GameSeller.pdb
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\obj\Debug\netcoreapp2.2\GameSeller.AssemblyInfoInputs.cache
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\obj\Debug\netcoreapp2.2\GameSeller.AssemblyInfo.cs
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\obj\Debug\netcoreapp2.2\GameSeller.dll
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\obj\Debug\netcoreapp2.2\GameSeller.pdb
+C:\Users\Josue\Project\GameSeller\GameSeller\GameSeller\obj\Debug\netcoreapp2.2\GameSeller.csprojAssemblyReference.cache
