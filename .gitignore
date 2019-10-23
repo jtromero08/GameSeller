@@ -1,1 +1,6 @@
-/.vs
+#Ignore Folder VS
+.vs/
+
+#Ignore Folders Bin & Obj
+GameSeller/bin/
+GameSeller/obj/

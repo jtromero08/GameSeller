@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller\\GameSeller.csproj": {}
+    "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller\\GameSeller.csproj": {
+    "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller\\GameSeller.csproj",
+        "projectUniqueName": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller.csproj",
         "projectName": "GameSeller",
-        "projectPath": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller\\GameSeller.csproj",
+        "projectPath": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller.csproj",
         "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\GameSeller\\obj\\",
+        "outputPath": "C:\\Users\\Josue\\Project\\GameSeller\\GameSeller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
