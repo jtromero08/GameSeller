@@ -4,3 +4,6 @@
 #Ignore Folders Bin & Obj
 GameSeller/bin/
 GameSeller/obj/
+
+#Unecesary Files To Delete Later
+Command_To_Remember.txt
