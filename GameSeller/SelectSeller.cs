@@ -7,7 +7,7 @@ namespace GameSeller
     public class SelectSeller
     {
 
-        public void SelectedSeller()
+        public void SellerSelected()
         {
             string seller = Console.ReadLine();
 
@@ -39,7 +39,7 @@ namespace GameSeller
                 Console.WriteLine($"Seller_{i + 1}");
             }
             Console.WriteLine("\n");
-            SelectedSeller();
+            SellerSelected();
         }
     }
 }
