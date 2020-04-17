@@ -9,6 +9,6 @@ namespace GameSeller
         public string Name = "";
         public int Age;
         public string Seller = "";
-        public Game Game = new Game();
+        public List<Game> Game = new Game();
     }
 }
