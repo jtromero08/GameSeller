@@ -34,9 +34,9 @@ namespace GameSeller
             Console.WriteLine($"Welcome {name} to GameSellerApp!");
             Console.WriteLine("Please select your seller by entering the number: \n");
 
-            for(var i = 0; i < 4; i++)
+            for(var i = 1; i <= 4; i++)
             {
-                Console.WriteLine($"Seller_{i + 1}");
+                Console.WriteLine($"Seller_{i}");
             }
             Console.WriteLine("\n");
             SellerSelected();
